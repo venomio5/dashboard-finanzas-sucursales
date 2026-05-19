@@ -50,6 +50,8 @@ The raw data had real-world messiness across all 3 sources:
 
 ## Dashboard
 
+![Descripción de la imagen](reports/Dashboard-Screenshot.png "Hi")
+
 - P&L with MoM and YoY deltas
 - Cash flow waterfall + accumulated trend
 - Margin by branch

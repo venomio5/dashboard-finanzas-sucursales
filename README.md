@@ -1,4 +1,4 @@
-# 📊 Financial Dashboard — Distribuidora Rojas Hermanos
+# 📊 Financial Dashboard — Mexican FMCG Distributor
 
 **Automated P&L, cash flow, and margin tracking for a 3-branch Mexican FMCG distributor.**
 
@@ -11,7 +11,7 @@ Built as a freelance BI project. Raw data came from 3 completely different sourc
 ## Project Structure
 
 ```
-DISTRIBUIDORA-ROJAS-HERMANOS/
+Financial-Dashboard-Mexican-FMCG-Distributor/
 │
 ├── data/
 │   ├── _raw/                          # Original files as received from client

@@ -36,7 +36,3 @@ dashboard-finanzas-sucursales/
 └── reports/
     └── dashboard_dist_rojas_hermanos.pbix
 ```
-
-## Context
-
-This was a freelance engagement for a real-world business scenario. The owner had no financial visibility beyond a monthly PDF from their accountant. The goal was daily visibility, not just prettier spreadsheets.
